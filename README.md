@@ -1,2 +1,1 @@
-# Example
-Examples
+# Git Tutorial
