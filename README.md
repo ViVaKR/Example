@@ -1,17 +1,18 @@
-> 타이틀 (# * 갯수, 5 까지, 숫자가 클수록 작아짐)
-# Git Tutorials (# * 1)
-## Git Tutorials (# * 2)
-### Git Tutorials (# * 3)
-#### Git Tutorials (# * 4)
-##### Git Tutorials (# * 5)
+> 타이틀 (# * 갯수, 5개 까지, 숫자가 클수록 작아짐)
+# Git Tutorials (# * 1, h1)
+## Git Tutorials (# * 2, h2)
+### Git Tutorials (# * 3, h3)
+#### Git Tutorials (# * 4, h4)
+##### Git Tutorials (# * 5, h5)
 
+> 수평선
+***
 > 코드작성 
 >> c, cpp, csharp, css, curl, go, dockerfile, 
 >> http, js, json, kotlin, java, markdown, perl
 >> python, r, rust, bash, zsh, shell
 >> mssql, mysql, postgresql, sqlite
 >> typescript, jaml
-
 
 > C# (cs, csharp)
 ```csharp
@@ -42,25 +43,41 @@ int main(void) {
 
 >인용구문
 > 인용구문 타입 1 ('>')
-
-
-
+---
 > 링크
 [Ref](https://vivabm.com)
 
 > 순서 없는 목록
-* Clone
-* Pull
-* Commit
-    * Commit 1
-    * Commit 2
-    * Commit 3 
+* 목록형식 1 (*)
++ 목록형식 2 (+)
+- 목록형식 3 (-)
+---
+> 순서가 있는 목록
+1. 사과
+2. 배
+3. 옥수수
+4. 참외
+---
 
 > 테이블 만들기 (|||, ---|---|---|, |||)
 
-번호|상품명|가격|수량|총액
+번호|상품명|가격|수량|총액|
 ---|---|---|---|---|
-1|Apple|1,200|3|3,600
+1|Apple|1,200|3|3,600|
+
+---
+> 강조 및 취소 (*, ~, )
+
+나는 **치킨** 먹다가 ~~웃음~~을 참지 못하였다.<br> br 태그와   
+3개의 공간으로 줄바꿈 됨
+
+<u>밑줄은 __u__ 태그로 가능함</u>
+
+> 이미지 삽입
+
+`아바타`
+
+![아바타](https://github.com/ViVaKR/Example/blob/main/avata.png?raw=true)
 
 
 
