@@ -59,6 +59,16 @@ int main(void) {
 4. 참외
 ---
 
+> 기울여 쓰기<br>
+
+_italic_   
+**bold**
+
+> 특수문자 
+
+\* 특수문자 1   
+\- 특수문자 2   
+
 > 테이블 만들기 (|||, ---|---|---|, |||)
 
 번호|상품명|가격|수량|총액|
@@ -73,11 +83,21 @@ int main(void) {
 
 <u>밑줄은 __u__ 태그로 가능함</u>
 
-> 이미지 삽입
+> 이모티콘   
 
-`아바타`
+(:smile:)
 
+> 체크박스   
+- [ ] 언체크
+- [x] 체크   
+> 이미지 삽입   
+`아바타 <img src=...`   
+<img src="https://github.com/ViVaKR/Example/blob/main/avata.png" width="30%" height="30%" />
+<br>
+`아바타 원본 그대로`   
 ![아바타](https://github.com/ViVaKR/Example/blob/main/avata.png?raw=true)
+
+
 
 
 
