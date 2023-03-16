@@ -1,0 +1,4 @@
+
+CTRL + SHIFT + P 
+markdown: Open Preview
+CTRL + SHIFT + V, CTRL + K, V

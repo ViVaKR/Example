@@ -4,6 +4,10 @@
 ### Git Tutorials (# * 3, h3)
 #### Git Tutorials (# * 4, h4)
 ##### Git Tutorials (# * 5, h5)
+###### Git Tutorials (# * 6, h6)
+
+> vscode preview : CTRL + SHIF + V, CTRL + K, V
+>> vscode markdown.showPreviewToSide
 
 > 수평선
 ***
