@@ -86,6 +86,7 @@ _italic_
 > 이모티콘   
 
 (:smile:)
+(:neckbeard:)
 
 > 체크박스   
 - [ ] 언체크
