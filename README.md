@@ -95,7 +95,8 @@ _italic_
 `아바타 <img src=...`   
 <img src="https://github.com/ViVaKR/Example/blob/main/avata.png" width="30%" height="30%" />
 <br>
-`아바타 원본 그대로`   
+`아바타 원본 그대로` 
+
 ![아바타](https://github.com/ViVaKR/Example/blob/main/avata.png?raw=true)
 
 
